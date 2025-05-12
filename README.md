@@ -10,3 +10,4 @@ El curso incluye las siguientes prácticas:
 - **Práctica 4**: Modelos de difusión y mecanismos de atención (PyTorch, código compilado con Torch y JAX)
 - **Práctica 5**: Redes neuronales con componentes físicos
 - **Práctica 6**: Redes generativas antagónicas (GAN)
+- **Práctica 7**: Fine tuning
